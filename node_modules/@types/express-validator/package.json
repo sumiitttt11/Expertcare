@@ -1,0 +1,18 @@
+{
+    "name": "@types/express-validator",
+    "version": "2.20.33",
+    "description": "TypeScript definitions for express-validator 2.20.4",
+    "license": "MIT",
+    "author": "Nathan Ridley <https://github.com/axefrog/>, Jonathan Häberle <http://dreampulse.de>, Peter Harris <https://github.com/codeanimal/>",
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "typings": "index.d.ts",
+    "typesPublisherContentHash": "0b2d3e7df5168f297c3ec1e478c5a60ad94e33e06973b4228ff566505cee50e2"
+}

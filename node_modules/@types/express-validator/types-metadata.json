@@ -1,0 +1,25 @@
+{
+    "authors": "Nathan Ridley <https://github.com/axefrog/>, Jonathan Häberle <http://dreampulse.de>, Peter Harris <https://github.com/codeanimal/>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [
+        "express"
+    ],
+    "moduleDependencies": [],
+    "libraryMajorVersion": "2",
+    "libraryMinorVersion": "20",
+    "libraryName": "express-validator 2.20.4",
+    "typingsPackageName": "express-validator",
+    "projectName": "https://github.com/ctavan/express-validator",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "Mixed",
+    "globals": [],
+    "declaredModules": [
+        "express-validator"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "0b2d3e7df5168f297c3ec1e478c5a60ad94e33e06973b4228ff566505cee50e2"
+}

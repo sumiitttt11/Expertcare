@@ -1,0 +1,18 @@
+# Installation
+> `npm install --save @types/express-validator`
+
+# Summary
+This package contains type definitions for express-validator 2.20.4 (https://github.com/ctavan/express-validator).
+
+# Details
+Files were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/express-validator
+
+Additional Details
+ * Last updated: Mon, 19 Sep 2016 17:28:58 GMT
+ * File structure: Mixed
+ * Library Dependencies: express
+ * Module Dependencies: none
+ * Global values: none
+
+# Credits
+These definitions were written by Nathan Ridley <https://github.com/axefrog/>, Jonathan Häberle <http://dreampulse.de>, Peter Harris <https://github.com/codeanimal/>.

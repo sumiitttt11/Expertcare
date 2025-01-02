@@ -1,0 +1,22 @@
+{
+  "name": "expertcare-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validator": "^7.2.1"
+  },
+  "devDependencies": {
+    "@types/express-validator": "^2.20.33",
+    "typescript": "^5.7.2"
+  }
+}
