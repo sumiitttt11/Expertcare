@@ -5,8 +5,10 @@ interface MiddlewareOptions {
   validations: ValidationChain[];
 }
 
-const validateRequest = (middlewareOptions: MiddlewareOptions) => {
-  const { validations } = middlewareOptions;
+const validateRequest = ({ validations }: MiddlewareOptions) => {
+  if (!Array.isArray(validations) || validations.length === 0) {
+    throw new Error("Validations must be a non-empty array of ValidationChain.");
+  }
 
   return [
     ...validations,
